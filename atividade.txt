@@ -6,8 +6,8 @@ int main (){
     scanf ("%f",&peso);
     printf("Digite sua altura");
     scanf("%f",&altura);
-    altura=altura*altura;
-    imc=peso/altura;
+   
+    imc=peso/ (altura*altura;
 
 
         if (imc<=18,5){
