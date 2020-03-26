@@ -31,7 +31,7 @@ int main (){
         printf ("Obesidade Grau II (severa) ");
         }
 
-        else {
+        else if (imc>40) {
         printf ("Obesidade Grau III");
         }
 
